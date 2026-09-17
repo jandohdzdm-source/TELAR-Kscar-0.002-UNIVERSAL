@@ -1,4 +1,8 @@
 # TELAR-Kscar-0.002-UNIVERSAL
+**DOI 7 Parkfield 3/3 Blind:** https://doi.org/10.5281/zenodo.22808463
+
+FIA 2026 - Constante universal...
+# TELAR-Kscar-0.002-UNIVERSAL
 FIA 2026 - Constante universal K_scar=0.002 valida de Black-Scholes a sismos
 
 **Constantes:** K_scar=0.002 | C1=1.7276 C2=0.4231246836990873 C3=2.38662 | Factor 47.0 | ratio_f_S=0.9406
